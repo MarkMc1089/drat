@@ -13,5 +13,5 @@ Imports: dplyr (>= 0.8.0), ggplot2 (>= 3.1.0), purrr (>= 0.3.0), scales (>= 1.0.
 Suggests: roxygen2 (>= 7.1.1), testthat (>= 0.4.1), usethis (>= 1.4.0), devtools (>= 2.0.1), rmarkdown (>=
             2.5.0), mockery (>= 0.4.2), knitr, tidyverse, NHSRdatasets
 License: MIT + file LICENSE
-MD5sum: 329410cb6fdcc140eb4521d66ee2acb3
+MD5sum: fa2da5b9fb481b5ca77053d41d0f3951
 NeedsCompilation: no
