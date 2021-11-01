@@ -7,6 +7,14 @@ License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
 
+Package: nhsbsaR
+Version: 0.0.0.9000
+Depends: R (>= 3.2.0)
+Imports: DBI, odbc, dbplyr, ggplot2, highcharter, nhsrtheme
+License: Apache License (>= 2)
+MD5sum: b449441eb5c822fee0da31f4158fa1b0
+NeedsCompilation: no
+
 Package: nhsrtheme
 Version: 0.1.0
 Imports: dplyr (>= 0.8.0), ggplot2 (>= 3.1.0), purrr (>= 0.3.0), scales (>= 1.0.0), xaringan (>= 0.17.0)
