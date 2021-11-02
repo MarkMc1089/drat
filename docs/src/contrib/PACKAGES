@@ -13,7 +13,7 @@ Depends: R (>= 4.1.0)
 Imports: config (>= 0.3.1), golem (>= 0.3.1), shiny (>= 1.6.0), markdown (>= 1.1), highcharter (>= 0.8.2),
             magrittr (>= 2.0.1), rlang (>= 0.4.11), nhsbsaR (>= 0.0.0.9000), pkgload (>= 1.2.3)
 License: Apache License (>= 2)
-MD5sum: 276b71bb4786dc5fc55eb4f24b46d661
+MD5sum: 73b3f7984382ce5e04d72ed4b686997c
 NeedsCompilation: no
 
 Package: nhsbsaR
