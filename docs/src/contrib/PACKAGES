@@ -10,10 +10,10 @@ NeedsCompilation: no
 Package: mongo2shiny
 Version: 0.0.0.9000
 Depends: R (>= 4.1.0)
-Imports: config (>= 0.3.1), golem (>= 0.3.1), shiny (>= 1.6.0), markdown (>= 1.1), highcharter (>= 0.8.2),
-            magrittr (>= 2.0.1), rlang (>= 0.4.11), nhsbsaR (>= 0.0.0.9000), pkgload (>= 1.2.3)
+Imports: config (>= 0.3.1), golem (>= 0.3.1), shiny (>= 1.6.0), markdown (>= 1.1), highcharter (>= 0.8.2), magrittr (>=
+             2.0.1), rlang (>= 0.4.11), nhsbsaR (>= 0.0.0.9000), pkgload (>= 1.2.3), mongolite (>= 2.3.1), DT (>= 0.19)
 License: Apache License (>= 2)
-MD5sum: 73b3f7984382ce5e04d72ed4b686997c
+MD5sum: 8a6b0dca1703be5795c8cfe2a89e405e
 NeedsCompilation: no
 
 Package: nhsbsaR
@@ -27,8 +27,8 @@ NeedsCompilation: no
 Package: nhsrtheme
 Version: 0.1.0
 Imports: dplyr (>= 0.8.0), ggplot2 (>= 3.1.0), purrr (>= 0.3.0), scales (>= 1.0.0), xaringan (>= 0.17.0)
-Suggests: roxygen2 (>= 7.1.1), testthat (>= 0.4.1), usethis (>= 1.4.0), devtools (>= 2.0.1), rmarkdown (>=
-            2.5.0), mockery (>= 0.4.2), knitr, tidyverse, NHSRdatasets
+Suggests: roxygen2 (>= 7.1.1), testthat (>= 0.4.1), usethis (>= 1.4.0), devtools (>= 2.0.1), rmarkdown (>= 2.5.0),
+             mockery (>= 0.4.2), knitr, tidyverse, NHSRdatasets
 License: MIT + file LICENSE
 MD5sum: fa2da5b9fb481b5ca77053d41d0f3951
 NeedsCompilation: no
